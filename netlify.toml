@@ -1,0 +1,17 @@
+﻿[[redirects]]
+  from = "/api/*"
+  to = "https://newsflow-ai-backend.onrender.com/api/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/files/*"
+  to = "https://newsflow-ai-backend.onrender.com/files/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/brand/*"
+  to = "https://newsflow-ai-backend.onrender.com/brand/:splat"
+  status = 200
+  force = true
